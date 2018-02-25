@@ -1,0 +1,5 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\izpitniZadachi\zaIzpita\Problem 1. Resurrection\bin\Debug\Problem_1.Resurrection.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\izpitniZadachi\zaIzpita\Problem 1. Resurrection\bin\Debug\Problem_1.Resurrection.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\izpitniZadachi\zaIzpita\Problem 1. Resurrection\bin\Debug\Problem_1.Resurrection.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\izpitniZadachi\zaIzpita\Problem 1. Resurrection\obj\Debug\Problem_1.Resurrection.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\izpitniZadachi\zaIzpita\Problem 1. Resurrection\obj\Debug\Problem_1.Resurrection.pdb
